@@ -6,6 +6,8 @@
 
 - Add License.
 
+- Init package.json
+
 - Bublesort Algorithm
 
   - Info, Descriptions, Showcase.
@@ -14,6 +16,8 @@
 - Given a non-empty array of integers, return the result of multiplication of each item in an array. Vector multiplication.
 
 ## Algorithms
+
+## Changelog
 
 ## Meta
 
