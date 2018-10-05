@@ -1,5 +1,7 @@
 # Algorithms and Data Structures
 
+![license](https://img.shields.io/badge/license-MIT-yellow.svg)
+
 > The aim of the project is to collect, provide information and solutions based on algorithms and data structures.
 
 ## TODO:
@@ -33,14 +35,13 @@
 
 ## Algorithms
 
-## Changelog
-
 ## Meta
 
 - Ivan Tsud – [@JStr00per](https://twitter.com/JStr00per) – ivts@tuta.io
 
-Distributed under the MIT license. See `LICENSE` for more information.
+Distributed under the MIT license. See [LICENSE](LICENSE) for more information.
 
 ## Acknowledgments
 
 - Hat tip to anyone whose code was used.
+- Made with <span style="color: #e25555;">&#9829;</span> in Estonia.
