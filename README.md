@@ -6,8 +6,6 @@
 
 ## TODO:
 
-- Add License.
-
 - Init package.json
 
 - Bublesort Algorithm
