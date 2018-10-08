@@ -1,6 +1,6 @@
 # Algorithms and Data Structures
 
-![license](https://img.shields.io/badge/license-MIT-yellow.svg)
+![](https://img.shields.io/badge/license-MIT-yellow.svg)
 
 > The aim of the project is to collect, provide information and solutions based on algorithms and data structures.
 
