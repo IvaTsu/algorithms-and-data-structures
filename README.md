@@ -31,7 +31,7 @@
 
 ## Meta
 
-- Ivan Tsud – [@JStr00per](https://twitter.com/JStr00per) – ivts@tuta.io
+Ivan Tsud – [@JStr00per](https://twitter.com/JStr00per) – ivts@tuta.io
 
 Distributed under the MIT license. See [LICENSE](LICENSE) for more information.
 
