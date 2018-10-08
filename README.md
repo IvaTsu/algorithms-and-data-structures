@@ -6,8 +6,6 @@
 
 ## TODO:
 
-- Init package.json
-
 - Bublesort Algorithm
 
   - Info, Descriptions, Showcase.
