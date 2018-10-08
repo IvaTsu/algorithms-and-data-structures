@@ -4,7 +4,7 @@
 
 > The aim of the project is to collect, provide information and solutions based on algorithms and data structures.
 
-## TODO:
+## Algorithms
 
 - Bublesort Algorithm
 
@@ -28,8 +28,6 @@
     return sum;
   }
   ```
-
-## Algorithms
 
 ## Meta
 
