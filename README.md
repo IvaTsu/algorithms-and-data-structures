@@ -2,32 +2,23 @@
 
 ![](https://img.shields.io/badge/license-MIT-yellow.svg)
 
-> The aim of the project is to collect, provide information and solutions based on algorithms and data structures.
+> The aim of the project is to collect, provide information and solutions on algorithms and data structures. This collection is based on what I had during interviews and coding challenges.
 
 ## Algorithms
 
-- Bublesort Algorithm
+#### Structure will follow somewhat this standard:
 
-  - Info, Descriptions, Showcase.
-  - Implementation in different languages.
+- Info, Descriptions, Showcase.
+- Implementation in different languages.
+- Labels and tags.
 
-- Given a non-empty array of integers, return the result of multiplication of each item in an array. Vector multiplication.
+## Data Structures
 
-- Given a "square" array of subarrays, find the sum of values from the first value of the first array, the second value of the second array, the third value of the third array, and so on (Otherwords, sum of a diagonal of a square matrix)
+#### Structure will follow somewhat this standard:
 
-  ```javascript
-  function diagonalSum(matrix) {
-    var sum = 0;
-    var inner = 0;
-
-    for (var i = matrix.length; i > 0; i--) {
-      inner = matrix[i - 1];
-      sum += inner[i - 1];
-    }
-
-    return sum;
-  }
-  ```
+- Info, Descriptions, Showcase.
+- Implementation in different languages.
+- Labels and tags.
 
 ## Meta
 
@@ -38,4 +29,5 @@ Distributed under the MIT license. See [LICENSE](LICENSE) for more information.
 ## Acknowledgments
 
 - Hat tip to anyone whose code was used.
-- Made with <span style="color: #e25555;">&#9829;</span> in Estonia.
+- Project started <span style="color: #e25555;">&#9829;</span> in 🇪🇪.
+- Contributed to the project from 🇺🇦.
