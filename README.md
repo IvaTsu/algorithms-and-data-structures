@@ -29,5 +29,5 @@ Distributed under the MIT license. See [LICENSE](LICENSE) for more information.
 ## Acknowledgments
 
 - Hat tip to anyone whose code and ideas were used.
-- Project started with <span style="color:red">&#9829;</span> in 🇪🇪.
+- Project started with <span>&#9829;</span> in 🇪🇪.
 - Contributed to the project from 🇺🇦.
