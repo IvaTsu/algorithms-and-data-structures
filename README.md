@@ -28,6 +28,6 @@ Distributed under the MIT license. See [LICENSE](LICENSE) for more information.
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used.
-- Project started <span style="color: #e25555;">&#9829;</span> in 🇪🇪.
+- Hat tip to anyone whose code and ideas were used.
+- Project started with <span style="color: #ee5555;">&#9829;</span> in 🇪🇪.
 - Contributed to the project from 🇺🇦.
