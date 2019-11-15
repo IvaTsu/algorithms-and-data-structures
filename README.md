@@ -21,6 +21,12 @@ Each task contains inside a `README.md` file with the description and showcase.
 
   [![JavaScript](https://img.shields.io/badge/JavaScript-yellow.svg?style=flat-square)](/algorithms/strings/CountLetters/javascript/countLetters.js)
 
+### Fundamentals
+
+- [FindIntegral](/algorithms/fundamentals/FindIntegral/README.md)
+
+  [![JavaScript](https://img.shields.io/badge/JavaScript-yellow.svg?style=flat-square)](/algorithms/fundamentals/FindIntegral/javascript/findIntegral.js)
+
 ## Data Structures
 
 #### Structure will follow somewhat this standard:
