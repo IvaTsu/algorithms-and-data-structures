@@ -1,0 +1,35 @@
+{
+	"name": "algorithms-and-data-structures",
+	"version": "0.0.1",
+	"description": "The aim of the project is to collect, provide information and solutions on algorithms and data structures. This collection is based on what I had during interviews, coding challenges and studies.",
+	"main": "index.js",
+	"scripts": {
+		"test": "mocha test/**/*.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/IvaTsu/algorithms-and-data-structures.git"
+	},
+	"keywords": [
+		"algorithm",
+		"algorithms",
+		"data",
+		"structure",
+		"data",
+		"structures",
+		"coding-challenge",
+		"coding-interviews",
+		"showcase",
+		"javascript"
+	],
+	"author": "Ivan Tsud, @JStr00per, ivts@tuta.io",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/IvaTsu/algorithms-and-data-structures/issues"
+	},
+	"homepage": "https://github.com/IvaTsu/algorithms-and-data-structures#readme",
+	"devDependencies": {
+		"chai": "^4.2.0",
+		"mocha": "^6.2.2"
+	}
+}
