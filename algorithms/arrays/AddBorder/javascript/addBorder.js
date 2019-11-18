@@ -31,6 +31,4 @@ function addBorder(picture) {
 	return pictureMatrix;
 }
 
-const picture = ["aa", "aa"];
-const result = addBorder(picture);
-console.log(result);
+module.exports = addBorder;
