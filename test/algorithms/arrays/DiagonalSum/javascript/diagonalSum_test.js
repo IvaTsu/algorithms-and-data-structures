@@ -1,5 +1,5 @@
 const { assert } = require("chai");
-const diagonalSum = require("../../../../algorithms/arrays/DiagonalSum/javascript/diagonalSum");
+const diagonalSum = require("../../../../../algorithms/arrays/DiagonalSum/javascript/diagonalSum");
 
 describe("diagonalSum", function() {
 	const testCases = [
