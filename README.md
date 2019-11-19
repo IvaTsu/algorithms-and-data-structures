@@ -9,23 +9,53 @@ Each task contains inside a `README.md` file with the description and showcase.
 
 ## Algorithms
 
-### Arrays
+<!-- Arrays Dropdown -->
+<details id="arrays" open>
+<summary>
+	<strong>
+		<em>Arrays</em>
+	</strong>
+</summary>
 
 - [AddBorder](/algorithms/arrays/AddBorder/README.md)
 
   [![JavaScript](https://img.shields.io/badge/JavaScript-yellow.svg?style=flat-square)](/algorithms/arrays/AddBorder/javascript/addBorder.js)
 
-### Strings
+- [DiagonalSum](/algorithms/arrays/DiagonalSum/README.md)
+
+  [![JavaScript](https://img.shields.io/badge/JavaScript-yellow.svg?style=flat-square)](/algorithms/arrays/DiagonalSum/javascript/diagonalSum.js)
+
+</details>
+
+<!-- Strings Dropdown -->
+
+<details id="strings" open>
+<summary>
+	<strong>
+		<em>Strings</em>
+	</strong>
+</summary>
 
 - [CountLetters](/algorithms/strings/CountLetters/README.md)
 
   [![JavaScript](https://img.shields.io/badge/JavaScript-yellow.svg?style=flat-square)](/algorithms/strings/CountLetters/javascript/countLetters.js)
 
-### Fundamentals
+</details>
+
+<!-- Fundamentals dropdown -->
+
+<details id="fundamentals" open>
+<summary>
+	<strong>
+		<em>Fundamentals</em>
+	</strong>
+</summary>
 
 - [FindIntegral](/algorithms/fundamentals/FindIntegral/README.md)
 
   [![JavaScript](https://img.shields.io/badge/JavaScript-yellow.svg?style=flat-square)](/algorithms/fundamentals/FindIntegral/javascript/findIntegral.js)
+
+</details>
 
 ## Data Structures
 
