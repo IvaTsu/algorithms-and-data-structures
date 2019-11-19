@@ -25,6 +25,10 @@ Each task contains inside a `README.md` file with the description and showcase.
 
   [![JavaScript](https://img.shields.io/badge/JavaScript-yellow.svg?style=flat-square)](/algorithms/arrays/DiagonalSum/javascript/diagonalSum.js)
 
+- [VectorMultiplication](/algorithms/arrays/VectorMultiplication/README.md)
+
+  [![JavaScript](https://img.shields.io/badge/JavaScript-yellow.svg?style=flat-square)](/algorithms/arrays/VectorMultiplication/javascript/vectorMultiplication.js)
+
 </details>
 
 <!-- Strings Dropdown -->
