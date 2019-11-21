@@ -31,21 +31,6 @@ Each task contains inside a `README.md` file with the description and showcase.
 
 </details>
 
-<!-- Strings Dropdown -->
-
-<details id="strings" open>
-<summary>
-	<strong>
-		<em>Strings</em>
-	</strong>
-</summary>
-
-- [CountLetters](/algorithms/strings/CountLetters/README.md)
-
-  [![JavaScript](https://img.shields.io/badge/JavaScript-yellow.svg?style=flat-square)](/algorithms/strings/CountLetters/javascript/countLetters.js)
-
-</details>
-
 <!-- Fundamentals dropdown -->
 
 <details id="fundamentals" open>
@@ -58,6 +43,21 @@ Each task contains inside a `README.md` file with the description and showcase.
 - [FindIntegral](/algorithms/fundamentals/FindIntegral/README.md)
 
   [![JavaScript](https://img.shields.io/badge/JavaScript-yellow.svg?style=flat-square)](/algorithms/fundamentals/FindIntegral/javascript/findIntegral.js)
+
+</details>
+
+<!-- Strings Dropdown -->
+
+<details id="strings" open>
+<summary>
+	<strong>
+		<em>Strings</em>
+	</strong>
+</summary>
+
+- [CountLetters](/algorithms/strings/CountLetters/README.md)
+
+  [![JavaScript](https://img.shields.io/badge/JavaScript-yellow.svg?style=flat-square)](/algorithms/strings/CountLetters/javascript/countLetters.js)
 
 </details>
 
