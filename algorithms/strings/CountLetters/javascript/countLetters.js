@@ -28,6 +28,4 @@ function countLetters(string) {
 	}
 }
 
-const string = "aabba";
-const result = countLetters(string);
-console.log(result);
+module.exports = countLetters;
