@@ -6,5 +6,4 @@ function findIntegral(integral) {
 	return (coefficient / power) + "x^" + power;
 }
 
-const derivative = findIntegral("3x^2");
-console.log(derivative);
+module.exports = findIntegral;
