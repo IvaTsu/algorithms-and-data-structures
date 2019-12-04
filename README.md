@@ -59,6 +59,14 @@ Each task contains inside a `README.md` file with the description and showcase.
 
   [![JavaScript](https://img.shields.io/badge/JavaScript-yellow.svg?style=flat-square)](/algorithms/strings/CountLetters/javascript/countLetters.js)
 
+- [SMS](/algorithms/strings/SMS/README.md)
+
+  [![JavaScript](https://img.shields.io/badge/JavaScript-yellow.svg?style=flat-square)](/algorithms/strings/SMS/javascript/sms.js)
+
+- [NutFarm](/algorithms/strings/NutFarm/README.md)
+
+  [![JavaScript](https://img.shields.io/badge/JavaScript-yellow.svg?style=flat-square)](/algorithms/strings/NutFarm/javascript/nutFarm.js)
+
 </details>
 
 ## Data Structures
